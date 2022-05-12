@@ -43,7 +43,7 @@ What kind of malware is this classified as?
 ### Illegal Downloads
 
 
-Find the following information about the machine with IP address 10.0.0.201:
+-  Find the following information about the machine with IP address 10.0.0.201:
 
     -  MAC address
     -  Windows username
