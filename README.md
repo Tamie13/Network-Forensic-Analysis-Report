@@ -30,7 +30,7 @@ the following was determined:
 
 *Images below depict analysis using **VirusTotal.com and Wireshark** to get the information seen above. (To view in full screen click image)*
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/VirustTotal%20Findings.png" width="300" height="350"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Malware%20File.png" width="300" height="350"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Export%20Object%20Filter%20For%20File.png" width="300" height="350">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/VirustTotal%20Findings.png" width="200" height="250"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Malware%20File.png" width="200" height="250"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Export%20Object%20Filter%20For%20File.png" width="200" height="250"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/frank-n-ted.png" width="200" height="250">
 
 
 ### Vulnerable Windows Machine
