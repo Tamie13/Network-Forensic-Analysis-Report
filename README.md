@@ -75,4 +75,10 @@ IT was informed that some users are torrenting on the network. The Security team
        -  ip.addr==10.0.0.201 and http.request.method==GET
        -  Betty_Boop_Rhythm_on_Reservation.avi.torrent
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/Betty%20Boop.png" width=" 400" height=" 450">
+*Images below depict analysis using **Wireshark** to get the information seen above. (To view in full screen click image)*
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/ip.addr%3D%3D%20%26%26%20http.request.method%3D%3DGET%20(torrent).png" width="250" height="250"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/Torrent%20%26%20Betty%20Boop.png" width="250" height="250">
+
+Extra: Betty Boop Website Image Below
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/Betty%20Boop.png" width=" 300" height=" 325">
