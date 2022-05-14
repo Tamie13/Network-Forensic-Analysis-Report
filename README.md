@@ -28,7 +28,9 @@ the following was determined:
 1. The name of the malware was **Googleipdate.exe** and
 2. It is classififed as **Trojan Malware.**
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/VirustTotal%20Findings.png" width="500" height="550">
+*Images below depicts analysis using **VirusTotal.com** to get the information seen above. (To view in full screen click image)*
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/VirustTotal%20Findings.png" width="300" height="350">
 
 
 ### Vulnerable Windows Machine
@@ -53,7 +55,9 @@ The network has standard gateway and broadcast addresses.
        -  IP Address: 172.16.4.4
        -  IP Address: 185.243.115.84
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/kerberos.CNameString%20and%20ip.addr%3D%3D172.16.4.0:24.png" width="400" height="425"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/bootp%20Domain%20Name.png" width="400" height="425">
+*Images below depict analysis using **Wireshark** to get the information seen above. (To view in full screen click image/s)*
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/kerberos.CNameString%20and%20ip.addr%3D%3D172.16.4.0:24.png" width="200" height="225"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/bootp%20Domain%20Name.png" width="200" height="225">
 
 ### Illegal Downloads
 
