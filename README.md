@@ -22,11 +22,13 @@ At least two users on the network have been wasting time on YouTube. Usually, IT
        -  Filter:
        -  File = june11.dll   Name= Googleipdate.exe
 
-After exporting the file june11.dll it was uploaded to VirusTotal.com for analysis
-and the following was determined that **Googleipdate.exe** is classififed as
-**Trojan Malware.**
+After exporting the file june11.dll it was uploaded to *VirusTotal.com* for analysis
+the following was determined:
 
-<img src=" " width=" " height=" ">
+1. The name of the malware was **Googleipdate.exe** and
+2. It is classififed as **Trojan Malware.**
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/VirustTotal%20Findings.png" width="500" height="550">
 
 
 ### Vulnerable Windows Machine
@@ -51,7 +53,7 @@ The network has standard gateway and broadcast addresses.
        -  IP Address: 172.16.4.4
        -  IP Address: 185.243.115.84
 
-<img src=" " width=" " height=" ">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/kerberos.CNameString%20and%20ip.addr%3D%3D172.16.4.0:24.png" width="400" height="425"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/bootp%20Domain%20Name.png" width="400" height="425">
 
 ### Illegal Downloads
 
@@ -69,4 +71,4 @@ IT was informed that some users are torrenting on the network. The Security team
        -  ip.addr==10.0.0.201 and http.request.method==GET
        -  Betty_Boop_Rhythm_on_Reservation.avi.torrent
 
-<img src=" " width=" " height=" ">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/Betty%20Boop.png" width=" 400" height=" 450">
