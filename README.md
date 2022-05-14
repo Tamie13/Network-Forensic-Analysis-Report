@@ -28,7 +28,7 @@ the following was determined:
 1. The name of the malware was **Googleipdate.exe** and
 2. It is classififed as **Trojan Malware.**
 
-*Images below depicts analysis using **VirusTotal.com and Wireshark** to get the information seen above. (To view in full screen click image)*
+*Images below depict analysis using **VirusTotal.com and Wireshark** to get the information seen above. (To view in full screen click image)*
 
 <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/VirustTotal%20Findings.png" width="300" height="350"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Malware%20File.png" width="300" height="350"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Export%20Object%20Filter%20For%20File.png" width="300" height="350">
 
