@@ -26,6 +26,8 @@ After exporting the file june11.dll it was uploaded to VirusTotal.com for analys
 and the following was determined that **Googleipdate.exe** is classififed as
 **Trojan Malware.**
 
+<img src=" " width=" " height=" ">
+
 
 ### Vulnerable Windows Machine
 
@@ -49,6 +51,8 @@ The network has standard gateway and broadcast addresses.
        -  IP Address: 172.16.4.4
        -  IP Address: 185.243.115.84
 
+<img src=" " width=" " height=" ">
+
 ### Illegal Downloads
 
 IT was informed that some users are torrenting on the network. The Security team does not forbid the use of torrents for legitimate purposes, such as downloading operating systems. However, they have a strict policy against copyright infringement.
@@ -64,3 +68,5 @@ IT was informed that some users are torrenting on the network. The Security team
     -  Which torrent file did the user download?# Network-Forensic-Analysis-Report
        -  ip.addr==10.0.0.201 and http.request.method==GET
        -  Betty_Boop_Rhythm_on_Reservation.avi.torrent
+
+<img src=" " width=" " height=" ">
