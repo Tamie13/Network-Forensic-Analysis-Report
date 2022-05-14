@@ -57,7 +57,7 @@ The network has standard gateway and broadcast addresses.
 
 *Images below depict analysis using **Wireshark** to get the information seen above. (To view in full screen click image/s)*
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/kerberos.CNameString%20and%20ip.addr%3D%3D172.16.4.0:24.png" width="200" height="225"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/bootp%20Domain%20Name.png" width="200" height="225">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/kerberos.CNameString%20and%20ip.addr%3D%3D172.16.4.0:24.png" width="200" height="225"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/bootp%20Domain%20Name.png" width="200" height="225"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Src:%20Mindhamer%20Dst:%20Rotterdam.png" width="200" height="225">
 
 ### Illegal Downloads
 
