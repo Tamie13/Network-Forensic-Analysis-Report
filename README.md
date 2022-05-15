@@ -30,7 +30,13 @@ the following was determined:
 
 *Images below depict analysis using **VirusTotal.com and Wireshark** to get the information seen above. (To view in full screen click image)*
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/VirustTotal%20Findings.png" width="200" height="250"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Malware%20File.png" width="200" height="250"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Export%20Object%20Filter%20For%20File.png" width="200" height="250"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/frank-n-ted.png" width="200" height="250">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/VirustTotal%20Findings.png" width="600" height="625"> 
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Malware%20File.png" width="600" height="625">
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Export%20Object%20Filter%20For%20File.png" width="600" height="625"> 
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/frank-n-ted.png" width="600" height="625">
 
 
 ### Vulnerable Windows Machine
@@ -57,7 +63,11 @@ The network has standard gateway and broadcast addresses.
 
 *Images below depict analysis using **Wireshark** to get the information seen above. (To view in full screen click image/s)*
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/kerberos.CNameString%20and%20ip.addr%3D%3D172.16.4.0:24.png" width="200" height="225"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/bootp%20Domain%20Name.png" width="200" height="225"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Src:%20Mindhamer%20Dst:%20Rotterdam.png" width="200" height="225">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/kerberos.CNameString%20and%20ip.addr%3D%3D172.16.4.0:24.png" width="600" height="625"> 
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/bootp%20Domain%20Name.png" width="600" height="625"> 
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Src:%20Mindhamer%20Dst:%20Rotterdam.png" width="900" height="625">
 
 ### Illegal Downloads
 
@@ -77,8 +87,10 @@ IT was informed that some users are torrenting on the network. The Security team
 
 *Images below depict analysis using **Wireshark** to get the information seen above. (To view in full screen click image)*
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/ip.addr%3D%3D%20%26%26%20http.request.method%3D%3DGET%20(torrent).png" width="250" height="250"> <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/Torrent%20%26%20Betty%20Boop.png" width="250" height="250">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/ip.addr%3D%3D%20%26%26%20http.request.method%3D%3DGET%20(torrent).png" width="650" height="650"> 
+
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/Torrent%20%26%20Betty%20Boop.png" width="650" height="650">
 
 Extra: Betty Boop Website Image Below
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/Betty%20Boop.png" width=" 300" height=" 325">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Network%20Analysis%20Images/Betty%20Boop.png" width=" 600" height=" 625">
