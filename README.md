@@ -67,7 +67,7 @@ The network has standard gateway and broadcast addresses.
 
 <img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/bootp%20Domain%20Name.png" width="600" height="625"> 
 
-<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Src:%20Mindhamer%20Dst:%20Rotterdam.png" width="900" height="625">
+<img src="https://github.com/Tamie13/Network-Forensic-Analysis-Report/blob/main/Wireshark/Src:%20Mindhamer%20Dst:%20Rotterdam.png" width="500" height="225">
 
 ### Illegal Downloads
 
